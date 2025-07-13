@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "scan:install-hook": "npx qlscan@latest init-hook",
+    "scan:install": "npx qlscan@latest init-hook",
     "scan": "npx qlscan@latest scan"
   },
   "dependencies": {
